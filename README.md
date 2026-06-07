@@ -61,7 +61,7 @@ Each folder contains the corresponding assignment, code files, notebooks, datase
 
 ## Author
 
-**Amit Kumar**
+**Amit**
 
 - GitHub: https://github.com/24-amit
 - LinkedIn: www.linkedin.com/in/24amit
@@ -69,3 +69,14 @@ Each folder contains the corresponding assignment, code files, notebooks, datase
 ## Note
 
 This repository is maintained for educational and learning purposes. It showcases the assignments and practical work completed during the internship.
+
+## Certificate
+
+Successfully completed the Data Science Internship at Celebal Technologies.
+
+## Highlights
+
+- Completed all assigned weekly tasks.
+- Worked with real-world datasets.
+- Applied Data Science and Machine Learning concepts.
+- Developed hands-on experience with Python data science libraries.
